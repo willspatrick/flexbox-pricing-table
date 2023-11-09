@@ -12,3 +12,6 @@ Semantic HTML and CSS: Structured with clean and semantic HTML5 and CSS3, ensuri
 # preview
 ![image](https://github.com/willspatrick/flexbox-pricing-table/assets/51753296/355d7bb1-1dfc-47c2-a6d3-d3fe5b71678e)
 
+# checkout link
+https://flexbox-pricing-table.vercel.app/
+
